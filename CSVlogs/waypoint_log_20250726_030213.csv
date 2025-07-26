@@ -1,0 +1,6 @@
+ElapsedTime(s),FaultActive,Delay(s),Target_X,Target_Y,Target_Z,Jittered_X,Jittered_Y,Jittered_Z,Collision
+43.15,False,1.00,45.00,0.00,-10.00,45.00,0.00,-10.00,COLLISION
+72.82,True,2.99,30.00,20.00,-100.00,30.92,20.38,-100.00,OK
+83.28,False,1.00,39.00,39.00,-77.00,39.00,39.00,-77.00,OK
+96.34,False,1.00,72.00,47.00,-56.00,72.00,47.00,-56.00,OK
+114.10,False,1.00,18.00,28.00,-50.00,18.00,28.00,-50.00,OK

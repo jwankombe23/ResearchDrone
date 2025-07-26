@@ -1,0 +1,2 @@
+ElapsedTime(s),FaultActive,Delay(s),Target_X,Target_Y,Target_Z,Jittered_X,Jittered_Y,Jittered_Z,Collision
+0.00,False,1.00,45.00,0.00,-10.00,45.00,0.00,-10.00,COLLISION

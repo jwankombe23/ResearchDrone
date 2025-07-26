@@ -1,0 +1,3 @@
+ElapsedTime(s),FaultActive,Delay(s),X,Y,Z,Status
+4.61,False,1.00,-0.00,-0.00,-10.13,COLLISION
+12.18,True,2.35,-10.03,11.12,-10.75,OK
